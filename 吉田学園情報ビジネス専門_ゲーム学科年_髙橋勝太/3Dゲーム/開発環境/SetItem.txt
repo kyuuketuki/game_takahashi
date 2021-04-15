@@ -1,0 +1,8 @@
+ITEMSET
+	POSX = 0.0
+	POSY = 0.0
+	POSZ = 0.0
+	ROTX = 0	ROTY = 0.0
+	ROTZ = 0	TYPE = 0
+END_SETITEM
+
