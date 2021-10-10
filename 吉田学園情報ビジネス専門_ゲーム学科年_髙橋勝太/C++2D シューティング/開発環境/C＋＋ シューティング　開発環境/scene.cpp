@@ -181,7 +181,7 @@ void CScene::UpdateAll(void)
 						m_pTop[nCntPriority][nCntType] = pScene->m_pNext;
 					}
 					
-					if (pScene->m_objType == OBJTYPE_ENEMY)
+					if (pScene->m_objType == OBJTYPE_ENEMY || pScene->m_objType == OBJTYPE_ENEMY2 || pScene->m_objType == OBJTYPE_ENEMY3)
 					{
 						CManager::AddEnemyDead(1);
 					}
