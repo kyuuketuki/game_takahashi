@@ -1,0 +1,69 @@
+﻿  tutorial.cpp
+  title.cpp
+  sound.cpp
+  select.cpp
+  score.cpp
+  sceneX.cpp
+  scene2D.cpp
+  renderer.cpp
+  scene.cpp
+  result.cpp
+  polygon.cpp
+  player3D.cpp
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\player3d.cpp(383): warning C4101: 'pMat': ローカル変数は 1 度も使われていません。
+  player.cpp
+  pause.cpp
+  particle.cpp
+  object3D.cpp
+  number.cpp
+  model.cpp
+  menu.cpp
+  manager.cpp
+  コードを生成中...
+  コンパイル中...
+  main.cpp
+  logo.cpp
+  light.cpp
+  life.cpp
+  item.cpp
+  input.cpp
+  gamepad.cpp
+  game2.cpp
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\game2.cpp(330): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\game2.cpp(341): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\game2.cpp(504): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\game2.cpp(505): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\game2.cpp(506): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\game2.cpp(507): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\game2.cpp(598): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\game2.cpp(619): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  game.cpp
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\game.cpp(255): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\game.cpp(261): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  fade.cpp
+  explosion.cpp
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\explosion.cpp(63): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\explosion.cpp(75): warning C4553: '==': 演算子にプログラム上の作用がありません。'=' を意図しましたか?
+  enemy.cpp
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\enemy.cpp(503): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\enemy.cpp(506): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\enemy.cpp(565): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\enemy.cpp(568): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\enemy.cpp(782): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  effect.cpp
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\effect.cpp(66): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  camera.cpp
+  bullet.cpp
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\bullet.cpp(205): warning C4553: '==': 演算子にプログラム上の作用がありません。'=' を意図しましたか?
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\bullet.cpp(231): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\bullet.cpp(280): warning C4553: '==': 演算子にプログラム上の作用がありません。'=' を意図しましたか?
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\bullet.cpp(307): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\bullet.cpp(356): warning C4553: '==': 演算子にプログラム上の作用がありません。'=' を意図しましたか?
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\bullet.cpp(382): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\bullet.cpp(807): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\これを見てください\c++2d シューティング\開発環境\ｃ++作品\bullet.cpp(826): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  bg.cpp
+  animation.cpp
+  コードを生成中...
+  Win32Project11.vcxproj -> C:\Users\student\Desktop\これを見てください\C++2D シューティング\開発環境\ｃ++作品\Debug\Win32Project11.exe
+  Win32Project11.vcxproj -> C:\Users\student\Desktop\これを見てください\C++2D シューティング\開発環境\ｃ++作品\Debug\Win32Project11.pdb (Full PDB)
